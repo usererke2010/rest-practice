@@ -1,0 +1,91 @@
+.header{
+    width: 1450px auto;
+    height: 82px;
+    background-color: #FCFEFE;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 3;
+    margin: 0px;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    padding: 12px;
+    display: flex;
+}
+
+.pps{
+    display: flex;
+    padding: 0px 0px 0px 855px;
+    gap: 25px;
+}
+
+.p1{
+    color: #333;
+    cursor: context-menu;
+    margin-left: 111px;
+}
+
+.ps{
+    color: #333;
+    cursor: context-menu;
+    font-size: 22px;
+    transition: all .5s ease;
+}
+
+.ps:hover{
+    color: #8E5418;
+    transform: rotate(12deg);
+    font-size: 32px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    transition: all .5s ease;
+}
+
+.blok1{
+    width: 1350px auto;
+    height: 500px;
+    background-color: #FCFEFE;
+    padding: 112px;
+}
+
+.hhbs{
+    margin-left: 210px;
+    position: absolute;
+    top: 155px;
+}
+
+.hh2{
+    color: #8E5418;
+    font-size: 62px;
+}
+
+.hh3{
+    font-size: 32px;
+}
+
+.fimg1{
+    margin-left: 755px;
+    width: 555px;
+    height: 555px;
+}
+
+.btn1{
+    border: none;
+    border-radius: 12px;
+    width: 152px;
+    height: 52px;
+    background-color: #8E5418;
+    color: #FCFEFE;
+    font-size: 20px;
+    padding: 10px;
+}
