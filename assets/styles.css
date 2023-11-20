@@ -45,7 +45,6 @@ h1,h2,h3,h4,h5,h6{
 
 .ps:hover{
     color: #8E5418;
-    transform: rotate(12deg);
     font-size: 32px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     transition: all .5s ease;
@@ -89,3 +88,122 @@ h1,h2,h3,h4,h5,h6{
     font-size: 20px;
     padding: 10px;
 }
+
+.blok2{
+    width: 1350px auto;
+    height: 500px;
+    background-color: #FCFEFE;
+    padding: 112px;
+}
+
+.hhbs1{
+    margin-left: 900px;
+    position: absolute;
+    top: 855px;
+}
+
+.p2{
+    color: #8E5418;
+    font-size: 20px;
+}
+
+.btn2{
+    border: none;
+    border-radius: 12px;
+    width: 182px;
+    height: 52px;
+    background-color: #8E5418;
+    color: #FCFEFE;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.fimg2{
+    margin-left: 155px;
+    
+}
+
+.blok3{
+    width: 1350px ;
+    height: 500px;
+    background-color: #FCFEFE;
+    margin-left: 675px;
+}
+
+.fup{
+    color: #8E5418;
+    font-size: 15px;
+    padding-left: 120px;
+}
+
+.bloks1{
+    display: flex;
+    gap: 32px;
+    position: absolute;
+    top: 1600px;
+    left: 350px;
+}
+
+.bsimg{
+    width: 50px;
+    height: 50px;
+    padding-left: 50px;
+}
+
+.bsp{
+    padding-right: 100px;
+    width: 300px;
+}
+
+.blok4{
+    width: 1350px ;
+    height: 500px;
+    background-color: #FCFEFE;
+    margin-left: 735px;
+}
+
+.fup2{
+    color: #8E5418;
+    font-size: 15px;
+    padding-left: 50px;
+}
+
+.bloks2{
+    display: flex;
+    gap: 32px;
+    position: absolute;
+    top: 2100px;
+    left: 250px;
+}
+
+.bsimg2{
+    width: 50px;
+    height: 50px;
+    padding-left: 50px;
+}
+
+.bsp2{
+    padding-right: 100px;
+    width: 300px;
+}
+
+.bbs2{
+    border: solid #555 2px;
+    border-radius: 10px;
+    width: 300px;
+    height: 250px;
+    padding: 22px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.rddiv{
+    width: 50px;
+    height: 30px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: #8E5418;
+    position: relative;
+    top: 266px;
+    right: 83px;
+}
+
