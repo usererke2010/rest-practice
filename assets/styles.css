@@ -207,3 +207,14 @@ h1,h2,h3,h4,h5,h6{
     right: 83px;
 }
 
+.blok5{
+    width: 1350px ;
+    height: 500px;
+    background-color: #FCFEFE;
+    margin-top: 150px;
+    margin-left: 250px;
+}
+
+.bbs3{
+    gap: 52px;
+}
